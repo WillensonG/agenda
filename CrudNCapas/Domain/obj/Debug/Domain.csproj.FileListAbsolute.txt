@@ -1,0 +1,22 @@
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\bin\Debug\Domain.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\bin\Debug\Domain.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\bin\Debug\Common.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\bin\Debug\DataAccess.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\bin\Debug\Common.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\obj\Debug\Domain.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Domain\obj\Debug\Domain.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\bin\Debug\Domain.dll
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\bin\Debug\Domain.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\bin\Debug\Common.dll
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\bin\Debug\DataAccess.dll
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\bin\Debug\Common.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\obj\Debug\Domain.dll
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Domain\obj\Debug\Domain.pdb

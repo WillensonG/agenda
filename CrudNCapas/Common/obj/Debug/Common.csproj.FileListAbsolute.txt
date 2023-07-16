@@ -1,0 +1,12 @@
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\bin\Debug\Common.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\bin\Debug\Common.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\obj\Debug\Common.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\obj\Debug\Common.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Common\bin\Debug\Common.dll
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Common\bin\Debug\Common.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Common\obj\Debug\Common.dll
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Common\obj\Debug\Common.pdb

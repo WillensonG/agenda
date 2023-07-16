@@ -1,0 +1,37 @@
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Presentation.exe
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.exe
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Guna.UI2.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Common.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Domain.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Common.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Domain.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\bin\Debug\Presentation.exe
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\bin\Debug\Common.dll
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\bin\Debug\Domain.dll
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\bin\Debug\Guna.UI2.dll
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\bin\Debug\Common.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\bin\Debug\Domain.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\obj\Debug\Presentation.exe
+C:\Users\Wex_2\Source\Repos\CRUD-C-SHARP\CrudNCapas\Presentation\obj\Debug\Presentation.pdb
